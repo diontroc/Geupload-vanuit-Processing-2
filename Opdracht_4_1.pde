@@ -1,0 +1,15 @@
+int a = 100;
+int b = 50;
+int c = 150;
+int d = 75;
+println(a);
+println(b);
+println(c);
+println(d);
+int totaal = 100 + 75;
+println(totaal);
+size(375, 375);
+line(75, 75, 325, 75);
+line(75, 75, 75, 300);
+line(75, 300, 325, 300);
+line(325, 75, 325, 300);
